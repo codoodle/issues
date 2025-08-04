@@ -1,0 +1,22 @@
+{
+  "name": "@tanstack-router/go-does-not-skip-blocker",
+  "version": "1.0.0",
+  "author": "Yeongseok Yoon",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.13.1",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.130.12",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tanstack/router-plugin": "^1.130.15",
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^7.0.6"
+  }
+}
